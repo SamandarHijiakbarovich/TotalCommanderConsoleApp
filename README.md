@@ -1,7 +1,8 @@
 
 # TotalCommanderConsoleApp
 
-TotalCommanderConsoleApp/
+TotalComman<img width="511" height="511" alt="image" src="https://github.com/user-attachments/assets/a452cbc5-5809-43ac-bbee-efc41afb8513" />
+derConsoleApp/
 ├── Models/               # Data modellari
 │   ├── FileSystemItem.cs
 │   ├── FileOperationResult.cs
