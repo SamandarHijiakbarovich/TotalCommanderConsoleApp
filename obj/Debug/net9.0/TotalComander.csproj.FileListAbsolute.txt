@@ -1,0 +1,14 @@
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.AssemblyInfoInputs.cache
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.AssemblyInfo.cs
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.csproj.CoreCompileInputs.cache
+D:\My Projects Api\TotalComander\bin\Debug\net9.0\TotalComander.exe
+D:\My Projects Api\TotalComander\bin\Debug\net9.0\TotalComander.deps.json
+D:\My Projects Api\TotalComander\bin\Debug\net9.0\TotalComander.runtimeconfig.json
+D:\My Projects Api\TotalComander\bin\Debug\net9.0\TotalComander.dll
+D:\My Projects Api\TotalComander\bin\Debug\net9.0\TotalComander.pdb
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.dll
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\refint\TotalComander.dll
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.pdb
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\TotalComander.genruntimeconfig.cache
+D:\My Projects Api\TotalComander\obj\Debug\net9.0\ref\TotalComander.dll
